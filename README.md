@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Bounty + Next.js
+
+This shows how to run Bounty on a Next.js application. If you are running a headless setup, routing may be broken depending on how the product handles are configured for your store inside of Shopify.
+
+To see Bounty in action, run the development server and go to `http://localhost:3000/bounty`.
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
